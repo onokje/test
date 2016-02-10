@@ -1,13 +1,12 @@
 <?php
 
-namespace Test;
 
 class DwdUtils
 {
     /**
      * Get string excerpt.
      *
-     * @param $str Input string
+     * @param $str string Input string
      * @param int    $length   Max length
      * @param string $trailing Trailing suffix
      *
